@@ -1,0 +1,4 @@
+C:\Users\Руслан\Desktop\Calculator\x64\Release\Calculator.vcxproj.AssemblyReference.cache
+C:\Users\Руслан\Desktop\Calculator\x64\Release\Calculator.CalculatorForm.resources
+C:\Users\Руслан\Desktop\Calculator\x64\Release\Calculator.vcxproj.GenerateResource.cache
+C:\Users\Руслан\Desktop\Calculator\x64\Release\Calculator.exe
